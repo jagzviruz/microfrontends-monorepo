@@ -1,0 +1,12 @@
+{
+  "name": "microfrontends-monorepo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
